@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7acad646-bf5c-41fc-bf5d-2b006b0d54ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="memo_app" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="memo_app" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WIMgbR30KSmxhOUtc3KWkNfj0d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="memo_app.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="memo_app [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="memo_app [tomcatRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tomcatRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.memo_app [dependencies]" />
+        <item itemvalue="Gradle.memo_app [tomcatRun]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7acad646-bf5c-41fc-bf5d-2b006b0d54ef" name="Default Changelist" comment="" />
+      <created>1578832768045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578832768045</updated>
+      <workItem from="1578832773458" duration="2798000" />
+      <workItem from="1578880191411" duration="4122000" />
+      <workItem from="1578888569290" duration="1289000" />
+      <workItem from="1578920014937" duration="114000" />
+      <workItem from="1578936962332" duration="1399000" />
+      <workItem from="1578969273005" duration="5681000" />
+      <workItem from="1579427066688" duration="606000" />
+      <workItem from="1579458121194" duration="4778000" />
+      <workItem from="1579533603407" duration="3328000" />
+      <workItem from="1579539290491" duration="1291000" />
+      <workItem from="1579570617103" duration="12385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="27" key="#JavaScript" timestamp="1579465116751">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="27" key="#JavaScript/0.27.1366.741@0.27.1366.741" timestamp="1579465116751" />
+    <state x="278" y="27" width="800" height="684" key="#SQL_Dialects" timestamp="1578887735105">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="27" width="800" height="684" key="#SQL_Dialects/0.27.1366.741@0.27.1366.741" timestamp="1578887735105" />
+    <state x="137" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579460066813">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="137" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1579460066813" />
+    <state width="1320" height="148" key="GridCell.Tab.0.bottom" timestamp="1579539095462">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="148" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579539095462" />
+    <state width="1320" height="148" key="GridCell.Tab.0.center" timestamp="1579539095461">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="148" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579539095461" />
+    <state width="1320" height="148" key="GridCell.Tab.0.left" timestamp="1579539095460">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="148" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579539095460" />
+    <state width="1320" height="148" key="GridCell.Tab.0.right" timestamp="1579539095462">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="148" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579539095462" />
+    <state x="347" y="174" key="run.anything.popup" timestamp="1579586348532">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1579586348532" />
+  </component>
+</project>

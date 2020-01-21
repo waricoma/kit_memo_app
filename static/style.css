@@ -1,0 +1,23 @@
+.cssans__word b {
+    margin: 5px;
+}
+
+.border {
+    outline: solid 1px #95a5a6;
+}
+
+.vw-100 {
+    width: 100vw;
+}
+
+.radius-10 {
+    border-radius: 10px;
+}
+
+input, select, textarea {
+    color: #FFFFFF;
+}
+
+body {
+    background-color: #000000;
+}

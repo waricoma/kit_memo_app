@@ -1,0 +1,7 @@
+
+Esquid:S1481"'Remove this unused "qq" local variable.(±ú‚Ş8ù²îúû-
+msquid:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’ÀÌ‰8˜îİ÷ù-
+asquid:UselessImportCheck"1Remove this unused import 'io.socket.client.Ack'.(Ã»¸Îıÿÿÿÿ8ò¾ëúû-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(šƒ¥õúÿÿÿÿ8æÈùû-
+asquid:UselessImportCheck"6Remove this unused import 'io.socket.emitter.Emitter'.(”¨‰á8ò¾ëúû-
+fsquid:S2095#"HUse try-with-resources or close this "Connection" in a "finally" clause.(á£¥ó8˜îİ÷ù-

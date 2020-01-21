@@ -1,0 +1,10 @@
+
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(æë‡û8ÚäÀÎù-
+Gsquid:S2115")Add password protection to this database.(±Ú¢ï8ÚäÀÎù-
+ysquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "con".(±Ú¢ï8ÚäÀÎù-
+vsquid:ModifiersOrderCheck
+"EReorder the modifiers to comply with the Java Language Specification.(Üşş¾üÿÿÿÿ8ÚäÀÎù-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¦µÑ·ûÿÿÿÿ8ÚäÀÎù-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ªá…ë8ÚäÀÎù-
+Ksquid:S4925"-Remove this "Class.forName()", it is useless.(´«·Ã8Şíİ÷ù-
+Hsquid:S00108")Either remove or fill this block of code.(±•å•8ÚäÀÎù-

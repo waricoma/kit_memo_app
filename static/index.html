@@ -1,0 +1,52 @@
+<head>
+    <title>MEMO APP</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="milligram.min.css">
+    <link rel="stylesheet" href="cssans.min.css">
+    <link rel="stylesheet" href="animate.min.css">
+    <link rel="stylesheet" href="jquery.toast.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1 class="cssans animated infinite bounce">MEMO APP</h1>
+<hr>
+<div class="container">
+    <div class="row animated slideInLeft">
+        <div class="column-75">
+            <input type="text">
+        </div>
+        <div class="column-25 column-offset-75">
+            <a class="button"><img src="search-24px.svg"></a>
+        </div>
+    </div>
+    <div class="row animated slideInRight border">
+        <div class="column-34">
+            <a id="preview" class="button">PREVIEW</a>
+            <img id="previewer" class="vw-100 radius-10">
+        </div>
+        <div class="column-66 column-offset-34">
+            <label for="logoTitle">Logo Title</label>
+            <input id="logoTitle" type="text"></input>
+            <label for="logoURL">Logo URL</label>
+            <input placeholder="https://..." id="logoURL" type="url"></input>
+            <a id="add" class="button">ADD</a>
+        </div>
+    </div>
+    <div class="row">
+        <ol id="list">
+
+        </ol>
+    </div>
+</div>
+
+<!-- scripts -->
+<script src="jquery-3.4.1.min.js"></script>
+<script src="cssans.min.js"></script>
+<script src="socket.io.js"></script>
+<script src="joi-browser.min.js"></script>
+<script src="jquery.toast.min.js"></script>
+<script src="script.js"></script>
+<!-- scripts -->
+</body>
